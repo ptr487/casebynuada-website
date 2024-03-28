@@ -1,0 +1,17 @@
+{
+  "name": "linktree-clone",
+  "version": "0.1.0",
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "simple-icons": "^5.7.1",
+    "react-tooltip": "^4.5.0",
+    "react-hot-toast": "^2.2.0",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6"
+  }
+}
